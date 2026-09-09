@@ -1,102 +1,102 @@
 # Tugas-Sistem-Operasi-50-Command-Line-
 Dokumentasi tugas praktik 50 command line linux/ubuntu
-1. 'mkdir'
+1. `mkdir`
    Membuat directory/folder baru
-2. 'cd'
+2. `cd`
    Masuk atau berpindah directory
-3. 'pwd'
+3. `pwd`
    Menampilkan lokasi directory saat ini
-4. 'ls'
+4. `ls`
    Menampilkan isi directory
-5. 'touch'
+5. `touch`
    Membuat file baru
-6. 'cat'
+6. `cat`
    Menampilkan isi file
-7. 'echo'
+7. `echo`
    Menampilkan atau menulis teks
-8. 'cp'
+8. `cp`
    Menyalin file
-9. 'mv'
+9. `mv`
     Memindahkan atau mengganti nama file
-10. 'rm'
+10. `rm`
     Menghapus file
-11. 'mkdir'
+11. `mkdir`
     Membuat directory baru
-12. 'cd'
+12. `cd`
     Masuk ke directory
-13. 'touch'
+13. `touch`
     Membuat file kosong
-14. 'echo'
+14. `echo`
    Menulis teks ke file
-15. 'cp'
+15. `cp`
    Membuat salinan file
-16. 'mv'
+16. `mv`
     Mengganti nama file
-17. 'cat'
+17. `cat`
    Membaca isi file
-18. 'rm'
+18. `rm`
     Menghapus file
-19. 'cd ..'
+19. `cd ..`
     Kembali satu directory
-20. 'ls -l'
+20. `ls -l`
     Melihat isi directory secara detail
-21. 'ls -a'
+21. `ls -a`
     Menampilkan file tersembunyi
-22. 'mkdir -p'
+22. `mkdir -p`
     Membuat directory beserta beserta subdirectory
-23. 'cd PROJECT'
+23. `cd PROJECT`
     Masuk ke folder PROJECT
-24. 'mkdir FILE'
+24. `mkdir FILE`
     Membuat folder FILE
-25. 'cd FILE'
+25. `cd FILE`
     Masuk ke folder FILE
-26. 'touch laporan.txt'
+26. `touch laporan.txt`
     Mmebuat file laporan
-27. 'echo'
+27. `echo`
     Menulis teks ke file
-28. 'cat'
+28. `cat`
    Menampilkan isi laporan
-29. 'cp'
+29. `cp`
    Menyalin file laporan
-30. 'mv'
+30. `mv`
     Mengganti nama file
-31. 'head'
+31. `head`
     Meanmpilkan bagian awal file
-32. 'tail'
+32. `tail`
     Menampilkan bagian akhir file
-33. 'wc -l'
+33. `wc -l`
     Menghitung jumlah baris
-34. 'wc -w'
+34. `wc -w`
     Menghitung jumlah kata
-35. 'wc -c'
+35. `wc -c`
     Menghitung jumlah byte
-36. 'sort'
+36. `sort`
     Mengurutkan isi file
-37. 'grep'
+37. `grep`
     Mencari teks tertentu
-38. 'cp'
+38. `cp`
     Menyalin file ke directory lain
-39. 'ls ..'
+39. `ls ..`
     Melihat isi directory sebelumnya
-40. 'rm'
+40. `rm`
     Menghapus file
-41. 'clear'
+41. `clear`
     Membersihkan tampilan terminal
-42. 'history'
+42. `history`
     Melihat riwayat command
-43. 'find'
+43. `find`
     Mencari file atau directory
-44. 'du -h'
+44. `du -h`
     Melihat ukuran file/ directory
-45. 'file'
+45. `file`
     Mengetahui jenis file
-46. 'nano'
+46. `nano`
     Membuat/ Mengedit file melalui editor teks
-47. 'mkdir'
+47. `mkdir`
     Mmebuat directory
-48. 'cp -r'
+48. `cp -r`
     Menyalin directory beserta isinya
-49. 'rmdir'
+49. `rmdir`
     Menghapus directory kosong
-50. 'exit'
+50. `exit`
     Keluar dari terminal
